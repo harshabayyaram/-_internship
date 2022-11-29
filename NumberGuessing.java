@@ -1,14 +1,4 @@
 package com.oasis.atm;
-//
-//public class  {
-//
-//	public static void main(String[] args) {
-//		// TODO Auto-generated method stub
-//
-//	}
-//
-//}
-
 
 import java.util.Random;
 import java.util.Scanner;
